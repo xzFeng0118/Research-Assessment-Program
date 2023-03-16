@@ -1,0 +1,147 @@
+C:\Users\DELL\source\repos\RAP\obj\Debug\RAP.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\RAP\obj\Debug\View\App.g.cs
+C:\Users\DELL\source\repos\RAP\obj\Debug\RAP_MarkupCompile.cache
+C:\Users\DELL\source\repos\RAP\obj\Debug\View\Level.g.cs
+C:\Users\DELL\source\repos\RAP\obj\Debug\RAP_MarkupCompile.lref
+C:\Users\DELL\source\repos\RAP\obj\Debug\View\MainWindow.g.cs
+C:\Users\DELL\source\repos\RAP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\source\repos\RAP\obj\Debug\View\SupervisionName.baml
+C:\Users\DELL\source\repos\RAP\obj\Debug\View\SupervisionName.g.cs
+C:\Users\DELL\source\repos\RAP\obj\Debug\View\User.g.cs
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\RAP.exe.config
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\RAP.exe
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\RAP.pdb
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\MySql.Data.dll
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\Google.Protobuf.dll
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\Zstandard.Net.dll
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\BouncyCastle.Crypto.dll
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\Ubiety.Dns.Core.dll
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\System.Memory.dll
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\System.Buffers.dll
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\K4os.Compression.LZ4.dll
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\K4os.Hash.xxHash.dll
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\bin\Debug\MySql.Data.xml
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\RAP.exe.config
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\View\SupervisionName.baml
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\View\MainWindow.g.cs
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\View\SupervisionName.g.cs
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\View\User.g.cs
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\View\App.g.cs
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\RAP_MarkupCompile.cache
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\RAP_MarkupCompile.lref
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\View\App.baml
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\View\MainWindow.baml
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\View\User.baml
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\RAP.g.resources
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\RAP.Properties.Resources.resources
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\RAP.csproj.GenerateResource.cache
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\RAP.csproj.CoreCompileInputs.cache
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\RAP.csproj.CopyComplete
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\RAP.exe
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\RAP.pdb
+D:\onedrive\University of Tasmania\Mingyuan Zou - 506 Assignment2\RAP (1)\obj\Debug\RAP.csproj.AssemblyReference.cache
+C:\Users\xuanzhef\Downloads\RAP (1)\bin\Debug\RAP.exe.config
+C:\Users\xuanzhef\Downloads\RAP (1)\bin\Debug\RAP.exe
+C:\Users\xuanzhef\Downloads\RAP (1)\bin\Debug\RAP.pdb
+C:\Users\xuanzhef\Downloads\RAP (1)\bin\Debug\MySql.Data.dll
+C:\Users\xuanzhef\Downloads\RAP (1)\bin\Debug\MySql.Data.xml
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\RAP.csprojAssemblyReference.cache
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\View\SupervisionName.baml
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\View\MainWindow.g.cs
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\View\SupervisionName.g.cs
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\View\User.g.cs
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\View\App.g.cs
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\RAP_MarkupCompile.cache
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\RAP_MarkupCompile.lref
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\View\App.baml
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\View\MainWindow.baml
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\View\User.baml
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\RAP.g.resources
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\RAP.Properties.Resources.resources
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\RAP.csproj.GenerateResource.cache
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\RAP.csproj.CoreCompileInputs.cache
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\RAP.csproj.CopyComplete
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\RAP.exe
+C:\Users\xuanzhef\Downloads\RAP (1)\obj\Debug\RAP.pdb
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\RAP.exe.config
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\RAP.exe
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\RAP.pdb
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\RAP.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\View\SupervisionName.baml
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\View\MainWindow.g.cs
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\View\SupervisionName.g.cs
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\View\User.g.cs
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\View\App.g.cs
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\RAP_MarkupCompile.cache
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\RAP_MarkupCompile.lref
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\View\App.baml
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\View\MainWindow.baml
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\View\User.baml
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\RAP.g.resources
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\RAP.Properties.Resources.resources
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\RAP.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\RAP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\RAP.csproj.CopyComplete
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\RAP.exe
+C:\Users\Admin\Desktop\RAP (1)\obj\Debug\RAP.pdb
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\RAP (1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+P:\RAP 10.13\bin\Debug\RAP.exe.config
+P:\RAP 10.13\bin\Debug\RAP.exe
+P:\RAP 10.13\bin\Debug\RAP.pdb
+P:\RAP 10.13\bin\Debug\BouncyCastle.Crypto.dll
+P:\RAP 10.13\bin\Debug\Google.Protobuf.dll
+P:\RAP 10.13\bin\Debug\K4os.Compression.LZ4.dll
+P:\RAP 10.13\bin\Debug\K4os.Compression.LZ4.Streams.dll
+P:\RAP 10.13\bin\Debug\K4os.Hash.xxHash.dll
+P:\RAP 10.13\bin\Debug\MySql.Data.dll
+P:\RAP 10.13\bin\Debug\System.Buffers.dll
+P:\RAP 10.13\bin\Debug\System.Memory.dll
+P:\RAP 10.13\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+P:\RAP 10.13\bin\Debug\Google.Protobuf.pdb
+P:\RAP 10.13\bin\Debug\Google.Protobuf.xml
+P:\RAP 10.13\bin\Debug\K4os.Compression.LZ4.xml
+P:\RAP 10.13\bin\Debug\K4os.Compression.LZ4.Streams.xml
+P:\RAP 10.13\bin\Debug\K4os.Hash.xxHash.xml
+P:\RAP 10.13\bin\Debug\System.Buffers.xml
+P:\RAP 10.13\bin\Debug\System.Memory.xml
+P:\RAP 10.13\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+P:\RAP 10.13\obj\Debug\View\SupervisionName.baml
+P:\RAP 10.13\obj\Debug\View\MainWindow.g.cs
+P:\RAP 10.13\obj\Debug\View\SupervisionName.g.cs
+P:\RAP 10.13\obj\Debug\View\User.g.cs
+P:\RAP 10.13\obj\Debug\View\App.g.cs
+P:\RAP 10.13\obj\Debug\GeneratedInternalTypeHelper.g.cs
+P:\RAP 10.13\obj\Debug\RAP_MarkupCompile.cache
+P:\RAP 10.13\obj\Debug\RAP_MarkupCompile.lref
+P:\RAP 10.13\obj\Debug\View\App.baml
+P:\RAP 10.13\obj\Debug\View\MainWindow.baml
+P:\RAP 10.13\obj\Debug\View\User.baml
+P:\RAP 10.13\obj\Debug\RAP.g.resources
+P:\RAP 10.13\obj\Debug\RAP.Properties.Resources.resources
+P:\RAP 10.13\obj\Debug\RAP.csproj.GenerateResource.cache
+P:\RAP 10.13\obj\Debug\RAP.csproj.CoreCompileInputs.cache
+P:\RAP 10.13\obj\Debug\RAP.csproj.CopyComplete
+P:\RAP 10.13\obj\Debug\RAP.exe
+P:\RAP 10.13\obj\Debug\RAP.pdb
+P:\RAP 10.13\obj\Debug\RAP.csprojAssemblyReference.cache
